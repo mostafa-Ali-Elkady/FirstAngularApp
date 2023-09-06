@@ -1,0 +1,10 @@
+.navbar {
+    background-color: #2c3e50;
+    color: #fff;
+}
+.navbar-toggler {
+background-color: teal;
+color: #fff;
+border: 0;
+box-shadow: none;
+}
